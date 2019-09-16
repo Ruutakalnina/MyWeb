@@ -38,7 +38,6 @@
 <div class="jumbotron">
   <p class="lead">Rūta Kalniņa</p>
   <hr class="my-4">
-  <p>Pēc izglītības esmu ekonomiste un esmu strādājusi ar eksporta konsultāciju projektiem. Kā papildus pienākums šajā darbā bija mājaslapu izveide Wordpresā un man tas tik ļoti iepatikās, ka šogad izlēmu, ka vēlos mācīties programmēt un strādāt IT nozarē. Mani hobiji - ceļošana, tautiskās dejas.</p>
   
 </div>
 
